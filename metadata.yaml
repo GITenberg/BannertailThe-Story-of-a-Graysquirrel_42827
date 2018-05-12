@@ -20,6 +20,8 @@ description: "Bannertail: The Story of a Graysquirrel is a children's novel writ
   \ and illustrated by Ernest Thompson Seton. It was first published by Charles Scribner's\
   \ Sons in 1922. The novel was adapted into an animated television series, Bannertail:\
   \ The Story of Gray Squirrel, in 1979.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42827#BannertailThe-Story-of-a-Graysquirrel
 gutenberg_issued: '2013-05-28'
 gutenberg_type: Text
 identifiers:
