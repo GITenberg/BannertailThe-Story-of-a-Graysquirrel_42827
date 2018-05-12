@@ -1,0 +1,39 @@
+_repo: BannertailThe-Story-of-a-Graysquirrel_42827
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42827-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Seton, Ernest Thompson
+    aliases:
+    - Seton, Wolf
+    - Seton-Thomson, Ernest
+    - Seton-Thompson, Ernest
+    - Thompson-Seton, Ernest
+    birthdate: 1860
+    deathdate: 1946
+    gutenberg_agent_id: '535'
+    url: http://www.gutenberg.org/2009/agents/535
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Thompson_Seton
+description: "Bannertail: The Story of a Graysquirrel is a children's novel written\
+  \ and illustrated by Ernest Thompson Seton. It was first published by Charles Scribner's\
+  \ Sons in 1922. The novel was adapted into an animated television series, Bannertail:\
+  \ The Story of Gray Squirrel, in 1979.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2013-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42827'
+  wikidata: Q4856964
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Squirrels -- Juvenile fiction'
+title: 'Bannertail: The Story of a Graysquirrel'
+url: http://www.gutenberg.org/ebooks/42827
+wikipedia:
+- https://en.wikipedia.org/wiki/Bannertail
+- https://es.wikipedia.org/wiki/Bannertail
